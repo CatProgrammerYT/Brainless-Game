@@ -1,0 +1,26 @@
+# Exported from 3D Builder
+
+newmtl Plastic_White
+Kd 1.000000 1.000000 1.000000
+
+newmtl Wood
+Kd 1.000000 1.000000 1.000000
+map_Kd Wood_baseColor.png
+
+newmtl Plastic_White
+Kd 1.000000 1.000000 1.000000
+
+newmtl material
+Kd 0.037097 0.037097 0.037097
+
+newmtl Metal_Silver
+Kd 1.000000 1.000000 1.000000
+
+newmtl Metal_Silver
+Kd 1.000000 1.000000 1.000000
+
+newmtl Metal_Silver
+Kd 1.000000 1.000000 1.000000
+
+newmtl Plastic_Black
+Kd 1.000000 1.000000 1.000000

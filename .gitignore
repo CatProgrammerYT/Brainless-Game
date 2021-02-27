@@ -1,0 +1,10 @@
+.vsconfig
+obj
+*.exe
+ProjectSettings
+Library
+Temp
+Packages
+Logs
+UserSettings
+.vs/
